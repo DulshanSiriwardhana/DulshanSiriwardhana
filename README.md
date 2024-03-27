@@ -41,3 +41,45 @@
 <p align="center">
   If you have any further questions or need assistance, feel free to ask! You can reach me at <a href="https://www.linkedin.com/in/dulshan-siriwardhana-17b77521a/">LinkedIn</a>.
 </p>
+
+<div align="center">
+  <h3>Current Projects</h3>
+  <ul>
+    <li>🚀 Working on a web-based project management tool using React and Node.js.</li>
+    <li>💡 Exploring machine learning algorithms for sentiment analysis in Python.</li>
+  </ul>
+</div>
+
+<div align="center">
+  <h3>Skills and Technologies</h3>
+  <ul>
+    <li>💻 Proficient in JavaScript, Python and HTML/CSS.</li>
+    <li>🛠 Experienced with React, Node.js, Express.js, and MongoDB.</li>
+    <li>📊 Familiar with data analysis and visualization tools like Pandas and Matplotlib.</li>
+  </ul>
+</div>
+
+<div align="center">
+  <h3>Goals and Ambitions</h3>
+  <ul>
+    <li>🎯 Striving to become a full-stack developer with expertise in both frontend and backend technologies.</li>
+    <li>🔭 Aspiring to contribute to impactful open-source projects and make a positive difference in the tech community.</li>
+  </ul>
+</div>
+
+<div align="center">
+  <h3>Fun Facts</h3>
+  <ul>
+    <li>🌟 I'm a coffee enthusiast and love trying out new coffee blends from around the world.</li>
+    <li>🎮 In my free time, I enjoy playing video games and exploring virtual worlds.</li>
+  </ul>
+</div>
+
+<div align="center">
+  <h3>Contact Me</h3>
+  <ul>
+    <li>📧 Feel free to shoot me an email at <a href="mailto:dulshansiriwardhanaofficial@gmail.com">dulshansiriwardhanaofficial@gmail.com</a>.</li>
+  </ul>
+</div>
+
+

@@ -39,5 +39,5 @@
 </p>
 
 <p align="center">
-  If you have any further questions or need assistance, feel free to ask! You can reach me at <a href="https://www.linkedin.com/in/dulshansiriwardhana">LinkedIn</a>.
+  If you have any further questions or need assistance, feel free to ask! You can reach me at <a href="https://www.linkedin.com/in/dulshan-siriwardhana-17b77521a/">LinkedIn</a>.
 </p>

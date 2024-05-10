@@ -30,10 +30,11 @@
   <h3>📊 My GitHub Language Stats:</h3>
   <p align="center">
     <a href="https://github.com/DulshanSiriwardhana/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulshanSiriwardhana&theme=radical&hide_border=false&layout=compact" alt="GitHub Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulshanSiriwardhana&theme=radical&hide_border=false" alt="GitHub Languages">
     </a>
   </p>
 </div>
+
 
 
 <p align="center">

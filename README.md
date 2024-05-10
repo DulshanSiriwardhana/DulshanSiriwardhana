@@ -26,11 +26,15 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/DulshanSiriwardhana/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulshanSiriwardhana&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Languages">
-  </a>
-</p>
+<div align="center">
+  <h3>📊 My GitHub Language Stats:</h3>
+  <p align="center">
+    <a href="https://github.com/DulshanSiriwardhana/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulshanSiriwardhana&theme=radical&hide_border=false&layout=compact" alt="GitHub Languages">
+    </a>
+  </p>
+</div>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">

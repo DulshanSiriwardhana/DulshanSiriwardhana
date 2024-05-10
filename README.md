@@ -4,7 +4,7 @@
 </div>
 <hr/>
 
-<div align= "center">
+<div align="center">
   <h4>A passionate Software Developer</h4>
   <p>I’m eager to collaborate with other developers</p>
 </div>

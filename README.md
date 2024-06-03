@@ -64,6 +64,6 @@
   <p align="center">
     <a href="mailto:dulshansiriwardhanaofficial@gmail.com">dulshansiriwardhanaofficial@gmail.com</a> |
     <a href="https://linkedin.com/in/dulshansiriwardhana">LinkedIn</a> |
-    <a href="https://dev.to/dulshansiri">Dev.to</a>
+    <a href="https://dev.to/dulshan_siriwardhana_370d">Dev.to</a>
   </p>
 </div>

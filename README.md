@@ -46,21 +46,83 @@
 <div align="center">
   <h3>🛠️ Languages and Tools:</h3>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg" alt="C++" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" alt="Docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vhdl/vhdl-original.svg" alt="Docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Docker" width="40" height="40"/>
+  <table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="42" height="42" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="42" height="42" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="42" height="42" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42"/>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42"/>
+      <br>Node Js
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="42" height="42"/>
+      <br>C#
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="42" height="42" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="42" height="42" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" />
+      <br>Kubernetes
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="96">
+      <img src="./images/mongodb.png" alt="mongodb" width="42" height="42" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="./images/aws.png" alt="aws" width="42" height="42" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="./images/jenkins.png" alt="jenkins" width="42" height="42" />
+      <br>Jenkins
+    </td>
+  </tr>
+</table>
   </p>
 </div>
 

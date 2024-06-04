@@ -103,22 +103,22 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="42" height="42" />
       <br>Kubernetes
     </td>
   </tr>
   
   <tr>
     <td align="center" width="96">
-      <img src="./images/mongodb.png" alt="mongodb" width="42" height="42" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="42" height="42" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="./images/aws.png" alt="aws" width="42" height="42" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws" width="42" height="42" />
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="./images/jenkins.png" alt="jenkins" width="42" height="42" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="42" height="42" />
       <br>Jenkins
     </td>
   </tr>

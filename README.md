@@ -26,6 +26,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github-contributor-stats.vercel.app/api?username=DulshanSiriwardhana&limit=5">
+    <img src="https://github-contributor-stats.vercel.app/api?username=DulshanSiriwardhana&limit=5" alt="GitHub Stats">
+  </a>
+</p>
+
 <div align="center">
   <h3>📊 My GitHub Language Stats:</h3>
   <p align="center">

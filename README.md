@@ -27,8 +27,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github-contributor-stats.vercel.app/api?username=DulshanSiriwardhana&limit=5">
-    <img src="https://github-contributor-stats.vercel.app/api?username=DulshanSiriwardhana&limit=5&theme=algolia" alt="GitHub Stats">
+  <a href="[https://github-contributor-stats.vercel.app/api?username=DulshanSiriwardhana&limit=5](https://github-readme-activity-graph.vercel.app/graph?username=DulshanSiriwardhana&radius=16&theme=github-compact&area=true&order=5" height="350" alt="activity-graph graph)">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DulshanSiriwardhana&radius=16&theme=github-compact&area=true&order=5" height="350" alt="activity-graph graph" /> 
   </a>
 </p>
 

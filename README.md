@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://github-contributor-stats.vercel.app/api?username=DulshanSiriwardhana&limit=5">
-    <img src="https://github-contributor-stats.vercel.app/api?username=DulshanSiriwardhana&limit=5&theme=default" alt="GitHub Stats">
+    <img src="https://github-contributor-stats.vercel.app/api?username=DulshanSiriwardhana&limit=5&theme=algolia" alt="GitHub Stats">
   </a>
 </p>
 

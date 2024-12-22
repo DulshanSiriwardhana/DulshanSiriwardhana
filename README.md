@@ -27,8 +27,8 @@
 </p>
 
 <p align="center">
-  <a href="[https://github-contributor-stats.vercel.app/api?username=DulshanSiriwardhana&limit=5](https://github-readme-activity-graph.vercel.app/graph?username=DulshanSiriwardhana&radius=16&theme=github-compact&area=true&order=5" height="350" alt="activity-graph graph)">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DulshanSiriwardhana&radius=16&theme=github-compact&area=true&order=5" height="350" alt="activity-graph graph" /> 
+  <a href="https://github.com/DulshanSiriwardhana/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DulshanSiriwardhana&radius=16&theme=github-compact&area=true&order=5" height="350" alt="activity-graph graph" />
   </a>
 </p>
 
@@ -40,8 +40,6 @@
     </a>
   </p>
 </div>
-
-
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -126,6 +124,20 @@
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="42" height="42" />
       <br>Jenkins
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="42" height="42" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="42" height="42" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blockchain/blockchain-original.svg" alt="Blockchain" width="42" height="42" />
+      <br>Blockchain
     </td>
   </tr>
 </table>

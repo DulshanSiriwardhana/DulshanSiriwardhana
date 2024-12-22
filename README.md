@@ -131,14 +131,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="42" height="42" />
       <br>Next.js
     </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="42" height="42" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blockchain/blockchain-original.svg" alt="Blockchain" width="42" height="42" />
-      <br>Blockchain
-    </td>
   </tr>
 </table>
   </p>

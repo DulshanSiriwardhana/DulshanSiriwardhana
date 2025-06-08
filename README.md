@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://user-badge.committers.top/sri_lankaDulshanSiriwardhana">
+  <a href="https://user-badge.committers.top/sri_lanka/DulshanSiriwardhana">
     <img src="https://user-badge.committers.top/sri_lanka/DulshanSiriwardhana.svg" alt="Committers Top Badge" />
   </a>
 </p>

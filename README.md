@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hey there!👋🤩 I’m Dulshan Siriwardhana</h2>
+  <h2>Hey there! 👋🤩 I’m Dulshan Siriwardhana</h2>
   <h3>3rd-year Computer Engineering undergraduate, at the University of Ruhuna 🏤</h3>
 </div>
 <hr/>
@@ -8,14 +8,16 @@
   <h4>A passionate Software Developer</h4>
   <p>I love building cool stuff and solving challenging problems!</p>
 </div>
-<br>
+<br/>
 
-<p align="center>
-  [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/USERNAME.svg)](https://user-badge.committers.top/sri_lanka_private/DulshanSiriwardhana)
+<p align="center">
+  <a href="https://user-badge.committers.top/sri_lanka_private/DulshanSiriwardhana">
+    <img src="https://user-badge.committers.top/sri_lanka_private/DulshanSiriwardhana.svg" alt="Committers Top Badge" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DulshanSiriwardhana" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=DulshanSiriwardhana" alt="Dulshan Siriwardhana - GitHub Profile Views">
 </p>
 
 <p align="center">
@@ -32,7 +34,7 @@
 
 <p align="center">
   <a href="https://github.com/DulshanSiriwardhana/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DulshanSiriwardhana&radius=16&theme=github-compact&area=true&order=5" height="350" alt="activity-graph graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DulshanSiriwardhana&radius=16&theme=github-compact&area=true&order=5" height="350" alt="GitHub Activity Graph" />
   </a>
 </p>
 
@@ -47,104 +49,107 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DulshanSiriwardhana&theme=onedark" alt="DulshanSiriwardhana" />
+    <img src="https://github-profile-trophy.vercel.app/?username=DulshanSiriwardhana&theme=onedark" alt="GitHub Trophies" />
   </a>
 </p>
 
 <div align="center">
   <h3>🛠️ Languages and Tools:</h3>
   <p align="center">
-  <table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="42" height="42" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="42" height="42" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="42" height="42" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42"/>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42"/>
-      <br>Node Js
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="42" height="42"/>
-      <br>C#
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="42" height="42" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="42" height="42" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="42" height="42" />
-      <br>Kubernetes
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="42" height="42" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws" width="42" height="42" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="42" height="42" />
-      <br>Jenkins
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="42" height="42" />
-      <br>Next.js
-    </td>
-  </tr>
-</table>
+    <table>
+      <tr>
+        <td align="center" width="96">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" />
+          <br>HTML5
+        </td>
+        <td align="center" width="96">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" />
+          <br>CSS3
+        </td>
+        <td align="center" width="96">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
+          <br>JavaScript
+        </td>
+        <td align="center" width="96">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="42" height="42" alt="Bootstrap" />
+          <br>Bootstrap
+        </td>
+        <td align="center" width="96">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" alt="React" />
+          <br>React
+        </td>
+        <td align="center" width="96">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />
+          <br>Node.js
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="96">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" />
+          <br>Python
+        </td>
+        <td align="center" width="96">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java" />
+          <br>Java
+        </td>
+        <td align="center" width="96">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C" />
+          <br>C
+        </td>
+        <td align="center" width="96">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" />
+          <br>C#
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="96">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git" />
+          <br>Git
+        </td>
+        <td align="center" width="96">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
+          <br>Docker
+        </td>
+        <td align="center" width="96">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="42" height="42" alt="Kubernetes" />
+          <br>Kubernetes
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="96">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" />
+          <br>MongoDB
+        </td>
+        <td align="center" width="96">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="42" height="42" alt="AWS" />
+          <br>AWS
+        </td>
+        <td align="center" width="96">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="42" height="42" alt="Jenkins" />
+          <br>Jenkins
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="96">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" />
+          <br>Next.js
+        </td>
+      </tr>
+    </table>
   </p>
 </div>
 
 <div align="center">
   <h3>📫 Connect with me:</h3>
   <p align="center">
-    <a href="mailto:dulshansiriwardhanaofficial@gmail.com">dulshansiriwardhanaofficial@gmail.com</a> |
-    <a href="https://linkedin.com/in/dulshansiriwardhana">LinkedIn</a> |
-    <a href="https://dev.to/dulshan_siriwardhana_370d">Dev.to</a>
+    <a href="mailto:dulshansiriwardhanaofficial@gmail.com">
+      <img src="https://img.shields.io/badge/Email-DulshanSiriwardhana-red?style=for-the-badge&logo=gmail" />
+    </a>
+    <a href="https://linkedin.com/in/dulshansiriwardhana">
+      <img src="https://img.shields.io/badge/LinkedIn-DulshanSiriwardhana-blue?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="https://dev.to/dulshan_siriwardhana_370d">
+      <img src="https://img.shields.io/badge/Dev.to-DulshanSiriwardhana-black?style=for-the-badge&logo=dev.to" />
+    </a>
   </p>
 </div>

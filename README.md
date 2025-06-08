@@ -10,6 +10,10 @@
 </div>
 <br>
 
+<p align="center>
+  [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/USERNAME.svg)](https://user-badge.committers.top/sri_lanka_private/DulshanSiriwardhana)
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DulshanSiriwardhana" alt="Profile Views">
 </p>

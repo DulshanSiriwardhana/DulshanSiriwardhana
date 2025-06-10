@@ -53,22 +53,6 @@
   </a>
 </p>
 
-<!-- Additional Visualizations -->
-
-<p align="center">
-  <img src="https://github.com/DulshanSiriwardhana/DulshanSiriwardhana/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <a href="https://skyline.github.com/DulshanSiriwardhana/2024">
-    <img src="https://img.shields.io/badge/GitHub%20Skyline-3D%20Contributions-blue?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
 <div align="center">
   <h3>🛠️ Languages and Tools:</h3>
   <p align="center">

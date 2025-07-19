@@ -6,7 +6,7 @@
 
 <div align="center">
   <h4>A passionate Software Developer</h4>
-  <p>I love building cool stuff and solving challenging problems!</p>
+  <p>I am Just Loving to solve what I like!</p>
 </div>
 <br/>
 

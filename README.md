@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hey there! 👋🤩 I’m Dulshan Siriwardhana</h2>
-  <h3>3rd-year Computer Engineering undergraduate, at the University of Ruhuna 🏤</h3>
+  <h3>4rd-year Computer Engineering undergraduate, at the University of Ruhuna 🏤</h3>
 </div>
 <hr/>
 

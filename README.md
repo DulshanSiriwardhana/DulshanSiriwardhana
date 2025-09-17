@@ -54,9 +54,9 @@
 </p>
 
 <div align="center">
-  <h3>✍️ Latest Medium Article</h3>
-  <a href="https://medium.com/@dulshansiriwardhanaofficial/building-your-first-ethereum-token-using-solidity-a-step-by-step-guide-ac64d9ffd949" target="_blank">
-    <img src="https://medium-thumbnail.vercel.app/api?url=https://medium.com/@dulshansiriwardhanaofficial/building-your-first-ethereum-token-using-solidity-a-step-by-step-guide-ac64d9ffd949" alt="Medium Post Preview" width="500"/>
+  <a href="https://medium.com/@dulshansiriwardhanaofficial/building-your-first-ethereum-token-using-solidity-a-step-by-step-guide-ac64d9ffd949" style="display: inline-block; text-align: center; margin: 0 10px;">
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*x8UIzcrTbQJ8qtpVs4KJ8g.png" alt="Building your first Ethereum token using Solidity" width="300">
+    <br><b>Building your first Ethereum token using Solidity</b><br>A step-by-step guide for beginners to create and deploy an ERC-20 token on Ethereum.
   </a>
 </div>
 

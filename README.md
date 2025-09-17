@@ -1,9 +1,5 @@
 # Hey there! 👋 I'm Dulshan Siriwardhana
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Passionate+Software+Developer;Problem+Solver+%26+Innovator;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22">
-</div>
-
 ## 🎓 About Me
 
 I'm a **4th-year Computer Engineering undergraduate** at the **University of Ruhuna** 🏛️, passionate about crafting elegant solutions to complex problems. I love diving deep into new technologies and turning innovative ideas into reality.
@@ -38,10 +34,10 @@ I'm a **4th-year Computer Engineering undergraduate** at the **University of Ruh
 
 <div align="center">
 
-<!-- GitHub Stats with multiple providers as fallback -->
+<!-- GitHub Stats with rank hidden to avoid misleading grades -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF">
-  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" height="180">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&hide_rank=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&hide_rank=true" height="180">
 </picture>
 
 <picture>

@@ -27,32 +27,70 @@ I'm a **4th-year Computer Engineering undergraduate** at the **University of Ruh
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DulshanSiriwardhana&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
+
+<!-- GitHub Streak Stats with fallback -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DulshanSiriwardhana&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=DulshanSiriwardhana&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B">
+</picture>
 
 </div>
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DulshanSiriwardhana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF)
+<!-- GitHub Stats with multiple providers as fallback -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF">
+  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" height="180">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DulshanSiriwardhana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8">
+  <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DulshanSiriwardhana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" height="180">
+</picture>
 
 </div>
 
 <div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DulshanSiriwardhana&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true)
+
+<!-- Activity Graph with better provider -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DulshanSiriwardhana&custom_title=Dulshan's%20Contribution%20Graph&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DulshanSiriwardhana&custom_title=Dulshan's%20Contribution%20Graph&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true">
+</picture>
 
 </div>
+
+<!-- Backup Stats Section (if above services fail) -->
+<details>
+<summary>📈 Alternative Stats View</summary>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DulshanSiriwardhana&layout=compact&theme=tokyonight)
+
+</div>
+</details>
 
 ---
 
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DulshanSiriwardhana&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+
+<!-- Trophy stats with fallback -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=DulshanSiriwardhana&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=DulshanSiriwardhana&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4">
+</picture>
+
+</div>
+
+<!-- Manual Achievement Highlights -->
+<div align="center">
+
+### 🎯 Key Achievements
+🌟 **4th Year Computer Engineering Student** | 🚀 **Blockchain Developer** | 💻 **Full-Stack Developer**
 
 </div>
 

@@ -1,14 +1,18 @@
-<div align="center">
-  <h2>Hey there! 👋🤩 I’m Dulshan Siriwardhana</h2>
-  <h3>4rd-year Computer Engineering undergraduate, at the University of Ruhuna 🏤</h3>
-</div>
-<hr/>
+<img width="1024" height="1024" alt="Profile Banner" src="https://github.com/user-attachments/assets/fdd73c3d-136a-4044-bf96-4e78572d622f" />
 
 <div align="center">
-  <h4>A passionate Software Developer</h4>
-  <p>I am Just Loving to solve what I like!</p>
+  <h2>Hey there! 👋🤩 I’m <span style="color:#2F80ED;">Dulshan Siriwardhana</span></h2>
+  <h3>🎓 4th-Year Computer Engineering Undergraduate, University of Ruhuna</h3>
 </div>
-<br/>
+
+---
+
+<div align="center">
+  <h4>💻 A Passionate Software Developer</h4>
+  <p>"I love solving problems and bringing ideas to life through code!"</p>
+</div>
+
+---
 
 <p align="center">
   <a href="https://user-badge.committers.top/sri_lanka/DulshanSiriwardhana">
@@ -17,138 +21,64 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DulshanSiriwardhana" alt="Dulshan Siriwardhana - GitHub Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=DulshanSiriwardhana" alt="GitHub Profile Views">
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=DulshanSiriwardhana&theme=omni" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=DulshanSiriwardhana&theme=omni" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DulshanSiriwardhana/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=DulshanSiriwardhana&theme=algolia" alt="GitHub Stats">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=algolia" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/DulshanSiriwardhana/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DulshanSiriwardhana&radius=16&theme=github-compact&area=true&order=5" height="350" alt="GitHub Activity Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DulshanSiriwardhana&radius=16&theme=github-compact&area=true&order=5" height="350" alt="GitHub Activity Graph" />
 </p>
 
+---
+
 <div align="center">
-  <h3>📊 My GitHub Language Stats:</h3>
-  <p align="center">
-    <a href="https://github.com/DulshanSiriwardhana/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulshanSiriwardhana&theme=radical&hide_border=false" alt="GitHub Languages">
-    </a>
-  </p>
+  <h3>📊 GitHub Language Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DulshanSiriwardhana&layout=compact&theme=radical" alt="GitHub Languages">
+</div>
+
+---
+
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=DulshanSiriwardhana&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <h3>✍️ Featured Article</h3>
+  <a href="https://medium.com/@dulshansiriwardhanaofficial/building-your-first-ethereum-token-using-solidity-a-step-by-step-guide-ac64d9ffd949" target="_blank">
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*S1VGPA7XDJde4ZayL4UN6Q.png" alt="Ethereum Token Guide" width="300" />
+    <br>
+    <b>Building Your First Ethereum Token Using Solidity</b><br>
+    A beginner-friendly step-by-step guide to create and deploy an ERC-20 token.
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3>🛠️ Languages & Tools</h3>
 </div>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DulshanSiriwardhana&theme=onedark" alt="GitHub Trophies" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,python,java,c,cs,git,docker,kubernetes,mongodb,aws,jenkins,nextjs" />
 </p>
 
-<div align="center">
-  <a href="https://medium.com/@dulshansiriwardhanaofficial/building-your-first-ethereum-token-using-solidity-a-step-by-step-guide-ac64d9ffd949" style="display: inline-block; text-align: center; margin: 0 10px;">
-    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*x8UIzcrTbQJ8qtpVs4KJ8g.png" alt="Building your first Ethereum token using Solidity" width="300">
-    <br><b>Building your first Ethereum token using Solidity</b><br>A step-by-step guide for beginners to create and deploy an ERC-20 token on Ethereum.
-  </a>
-</div>
+---
 
 <div align="center">
-  <h3>🛠️ Languages and Tools:</h3>
-  <p align="center">
-    <table>
-      <tr>
-        <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" />
-          <br>HTML5
-        </td>
-        <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" />
-          <br>CSS3
-        </td>
-        <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
-          <br>JavaScript
-        </td>
-        <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="42" height="42" alt="Bootstrap" />
-          <br>Bootstrap
-        </td>
-        <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" alt="React" />
-          <br>React
-        </td>
-        <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />
-          <br>Node.js
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" />
-          <br>Python
-        </td>
-        <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java" />
-          <br>Java
-        </td>
-        <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C" />
-          <br>C
-        </td>
-        <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" />
-          <br>C#
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git" />
-          <br>Git
-        </td>
-        <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
-          <br>Docker
-        </td>
-        <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="42" height="42" alt="Kubernetes" />
-          <br>Kubernetes
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" />
-          <br>MongoDB
-        </td>
-        <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="42" height="42" alt="AWS" />
-          <br>AWS
-        </td>
-        <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="42" height="42" alt="Jenkins" />
-          <br>Jenkins
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" />
-          <br>Next.js
-        </td>
-      </tr>
-    </table>
-  </p>
-</div>
-
-<div align="center">
-  <h3>📫 Connect with me:</h3>
-  <p align="center">
+  <h3>📫 Connect with Me</h3>
+  <p>
     <a href="mailto:dulshansiriwardhanaofficial@gmail.com">
       <img src="https://img.shields.io/badge/Email-DulshanSiriwardhana-red?style=for-the-badge&logo=gmail" />
     </a>

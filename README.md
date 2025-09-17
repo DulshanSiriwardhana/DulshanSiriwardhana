@@ -55,11 +55,9 @@
 
 <div align="center">
   <h3>✍️ Latest Medium Article</h3>
-  <p>
-    <a href="https://medium.com/@dulshansiriwardhanaofficial/building-your-first-ethereum-token-using-solidity-a-step-by-step-guide-ac64d9ffd949" target="_blank">
-      Building your first Ethereum token using Solidity: A step-by-step guide
-    </a>
-  </p>
+  <a href="https://medium.com/@dulshansiriwardhanaofficial/building-your-first-ethereum-token-using-solidity-a-step-by-step-guide-ac64d9ffd949" target="_blank">
+    <img src="https://medium-thumbnail.vercel.app/api?url=https://medium.com/@dulshansiriwardhanaofficial/building-your-first-ethereum-token-using-solidity-a-step-by-step-guide-ac64d9ffd949" alt="Medium Post Preview" width="500"/>
+  </a>
 </div>
 
 <div align="center">

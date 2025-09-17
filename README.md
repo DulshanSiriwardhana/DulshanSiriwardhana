@@ -54,6 +54,15 @@
 </p>
 
 <div align="center">
+  <h3>✍️ Latest Medium Article</h3>
+  <p>
+    <a href="https://medium.com/@dulshansiriwardhanaofficial/building-your-first-ethereum-token-using-solidity-a-step-by-step-guide-ac64d9ffd949" target="_blank">
+      Building your first Ethereum token using Solidity: A step-by-step guide
+    </a>
+  </p>
+</div>
+
+<div align="center">
   <h3>🛠️ Languages and Tools:</h3>
   <p align="center">
     <table>

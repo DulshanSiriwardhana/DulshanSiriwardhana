@@ -22,9 +22,10 @@ I'm a **4th-year Computer Engineering undergraduate** at the **University of Ruh
 
 ## 📊 GitHub Analytics
 
+## 🔥 GitHub Streak
+
 <div align="center">
 
-<!-- GitHub Streak Stats with fallback -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DulshanSiriwardhana&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=DulshanSiriwardhana&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B">

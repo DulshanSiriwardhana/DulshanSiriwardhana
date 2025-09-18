@@ -22,8 +22,6 @@ I'm a **4th-year Computer Engineering undergraduate** at the **University of Ruh
 
 ## 📊 GitHub Analytics
 
-## 🔥 GitHub Streak
-
 <div align="center">
 
 <picture>

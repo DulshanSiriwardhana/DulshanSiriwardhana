@@ -73,13 +73,14 @@ I'm a **4th-year Computer Engineering undergraduate** at the **University of Ruh
 
 <div align="center">
 
-<!-- Trophy stats with fallback -->
+<!-- Trophy stats with all trophies shown -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=DulshanSiriwardhana&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=DulshanSiriwardhana&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=DulshanSiriwardhana&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=3&column=6">
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=DulshanSiriwardhana&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=3&column=6">
 </picture>
 
 </div>
+
 
 <!-- Manual Achievement Highlights -->
 <div align="center">

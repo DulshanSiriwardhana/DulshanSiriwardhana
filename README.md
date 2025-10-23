@@ -9,13 +9,10 @@ I love diving deep into new technologies and turning innovative ideas into reali
 
 ---
 
-## 🏆 GitHub Achievements
-
 <div align="center">
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=DulshanSiriwardhana&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/DulshanSiriwardhana)
 [![Committers Top Badge](https://user-badge.committers.top/sri_lanka/DulshanSiriwardhana.svg)](https://user-badge.committers.top/sri_lanka/DulshanSiriwardhana)
-[![GitHub Grade](https://github-readme-stats.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=radical&hide_title=true&hide_rank=false&hide_border=true&count_private=true)](https://github.com/DulshanSiriwardhana)
 
 </div>
 
@@ -32,10 +29,7 @@ I love diving deep into new technologies and turning innovative ideas into reali
 
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" height="180" />
-</picture>
+[![GitHub Grade](https://github-readme-stats.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=radical&hide_title=true&hide_rank=false&hide_border=true&count_private=true)](https://github.com/DulshanSiriwardhana)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DulshanSiriwardhana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8&hide=Jupyter%20Notebook">

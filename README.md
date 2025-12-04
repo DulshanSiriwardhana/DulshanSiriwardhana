@@ -7,6 +7,13 @@ I love diving deep into new technologies and turning innovative ideas into reali
 
 > *"I just love to solve what I like!"*
 
+- 🔭 I'm currently working on **Blockchain & Full-Stack Development** projects
+- 🌱 I'm currently learning **Advanced Blockchain Technologies** and **Cloud Architecture**
+- 👯 I'm looking to collaborate on **Open Source Projects** and **Blockchain Solutions**
+- 💬 Ask me about **Solidity**, **React**, **Node.js**, or **Blockchain Development**
+- 📫 How to reach me: [Email](mailto:dulshansiriwardhanaofficial@gmail.com) | [LinkedIn](https://linkedin.com/in/dulshansiriwardhana)
+- ⚡ Fun fact: I turn coffee into code ☕
+
 ---
 
 <div align="center">
@@ -111,6 +118,15 @@ I love diving deep into new technologies and turning innovative ideas into reali
 
 </div>
 
+### 🔥 Currently Learning
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</div>
+
 ---
 
 ## 📝 Featured Article
@@ -137,6 +153,8 @@ I love diving deep into new technologies and turning innovative ideas into reali
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dulshansiriwardhana)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dulshan_siriwardhana_370d)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DulshanSiriwardhana)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dulshansiriwardhanaofficial)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dulshansiriwardhana.live)
 
 </div>
 

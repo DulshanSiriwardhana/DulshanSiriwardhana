@@ -12,7 +12,7 @@
 
 *An aspiring engineer at the University of Ruhuna pushing the boundaries of real-time application state management, decoupled microservice design, and high-performance Web3 solutions.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=greenGradient&height=120&section=header&text=%20&fontSize=90" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:008000&height=120&section=header&text=%20&fontSize=90" width="100%"/>
 
 </div>
 
@@ -140,5 +140,5 @@
 > *"Code is poetry written in logic."*
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer&text=%20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:008000&height=80&section=footer&text=%20" width="100%"/>
 </div>

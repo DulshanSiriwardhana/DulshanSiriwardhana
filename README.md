@@ -18,6 +18,16 @@
 
 <br/>
 
+## 🎯 Current Focus & Journey
+
+- 🔭 **Currently Building:** Scalable distributed systems, high-performance computing pipelines, and advanced software architectures.
+- 🌱 **Currently Learning:** Advanced database optimization techniques and scaling distributed systems.
+- 👯 **Open to Collaborate on:** Open-source Web3 protocols, real-time architectures, and heavily secure backend infrastructures.
+- 💬 **Ask Me About:** React, Node.js, Solidity smart contracts, and full-stack execution flows.
+- 📫 **How to Reach Me:** Click any of the social badges above to get in touch!
+
+<br/>
+
 ## 🛠️ Technical Arsenal
 
 <div align="center">

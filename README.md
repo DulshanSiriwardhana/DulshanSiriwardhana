@@ -64,6 +64,12 @@
 ## 📊 Analytics & Impact
 
 <div align="center">
+  <a href="https://user-badge.committers.top/sri_lanka/DulshanSiriwardhana"><img src="https://user-badge.committers.top/sri_lanka/DulshanSiriwardhana.svg" alt="committers.top badge" /></a>
+</div>
+
+<br/>
+
+<div align="center">
   <table width="100%">
     <tr>
       <td width="50%" align="center">

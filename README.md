@@ -85,42 +85,34 @@
 ## 📊 Analytics & Impact
 
 <div align="center">
-  <a href="https://user-badge.committers.top/sri_lanka/DulshanSiriwardhana"><img src="https://user-badge.committers.top/sri_lanka/DulshanSiriwardhana.svg" alt="committers.top badge" /></a>
-</div>
+  <p>
+    <a href="https://user-badge.committers.top/sri_lanka/DulshanSiriwardhana">
+      <img src="https://user-badge.committers.top/sri_lanka/DulshanSiriwardhana.svg" alt="committers.top badge" />
+    </a>
+  </p>
 
-<br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DulshanSiriwardhana&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DulshanSiriwardhana&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  </picture>
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-          <img src="https://github-readme-stats.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-        </picture>
-      </td>
-      <td width="50%" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DulshanSiriwardhana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DulshanSiriwardhana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langs" />
-        </picture>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DulshanSiriwardhana&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=DulshanSiriwardhana&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
-        </picture>
-      </td>
-      <td width="50%" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DulshanSiriwardhana&theme=tokyonight&hide_border=true" />
-          <img src="https://streak-stats.demolab.com?user=DulshanSiriwardhana&theme=tokyonight&hide_border=true" alt="Streak" />
-        </picture>
-      </td>
-    </tr>
-  </table>
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DulshanSiriwardhana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DulshanSiriwardhana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langs" width="49%" />
+  </picture>
+
+  <br/>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DulshanSiriwardhana&theme=tokyonight&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=DulshanSiriwardhana&theme=tokyonight&hide_border=true" alt="Streak" width="49%" />
+  </picture>
 </div>
 
 <br/>

@@ -21,17 +21,29 @@ Welcome to my central repository hub. I am an aspiring engineer at the Universit
 
 ---
 
-## Latest Work Showcase: KnightChess Platform
+## Latest Work Showcase
 
-*An end-to-end proprietary real-time distributed multiplayer ecosystem.*
+### 1. DeedLink Platform
+*A decentralized protocol bridging traditional agreements with on-chain immutability.*
 
-**The Engineering Challenge:** Creating a competitive chess platform that mimics enterprise-level logic handling, requiring absolute zero-latency board manipulation decoupled from standard HTTP polling.
+**The Engineering Challenge:** Architecting a completely trustless environment for handling high-stakes structural agreements utilizing smart contract parameters.
 
 **Structural Architecture:**
-- **Frontend Engine:** Assembled using strictly typed React, Vite, and TypeScript to completely eliminate unhandled runtime state mutations. UI elements were meticulously built with Tailwind CSS 4.0, delivering a clean glass-morphism aesthetic.
-- **WebSocket Gateway:** Deployed a persistent bidirectional Socket.IO network. Every individual move dynamically broadcasts matrix transformation data structures to connected clients instantly, overriding traditional REST constraints.
-- **Backend Infrastructure:** Orchestrated a highly secure Node.js & Express.js layer. Stateful data such as JWT authentication tokens, match history logs, competitive Elo ratings, and hashed security credentials are encrypted and stored via MongoDB.
-- **Advanced Autonomous Operations:** Extracted core mechanical rules logic (such as Castling constraints, En Passant vulnerability windows, and recursive algorithmic Checkmate verifications) to autonomous micro-loops to prevent client-side overloading.
+- **Blockchain Core:** Smart contracts seamlessly deployed using Solidity, ensuring rigorous cryptographic security and EVM compatibility.
+- **Frontend Engine:** Assembled using strictly typed React, Vite, and TypeScript to completely eliminate unhandled runtime state mutations. 
+- **Integration Layer:** Utilizes modern Web3 bridging methodologies (such as Ethers.js) to seamlessly authenticate users and interact with decentralized nodes.
+
+<br />
+
+### 2. CyberHex Ecosystem
+*An advanced structural application ecosystem tailored for modern robust systems.*
+
+**The Engineering Challenge:** Building a robust, decoupled ecosystem capable of handling high-velocity data execution and secure architectural routing.
+
+**Structural Architecture:**
+- **Backend Infrastructure:** Orchestrated a highly secure, scalable Node.js & Express layer mapping complex application logics.
+- **Database & Storage:** Stateful data logs and credentials are encrypted, secured, and optimized using scalable database deployments for instant retrieval.
+- **Performance Execution:** Designed with latency-minimizing architectural patterns to ensure heavily responsive execution across concurrent global connections.
 
 ---
 

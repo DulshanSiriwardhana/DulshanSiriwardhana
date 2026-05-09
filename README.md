@@ -12,7 +12,7 @@
 
 *An aspiring engineer at the University of Ruhuna pushing the boundaries of real-time application state management, decoupled microservice design, and high-performance Web3 solutions.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&text=%20&fontSize=90" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=greenGradient&height=120&section=header&text=%20&fontSize=90" width="100%"/>
 
 </div>
 

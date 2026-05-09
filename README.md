@@ -60,14 +60,25 @@
 
 <br/>
 
-### 🏆 2. [CyberHex Ecosystem](https://github.com/DulshanSiriwardhana)
-> **An advanced structural application ecosystem tailored for modern robust systems.**
+### 🏆 2. [CyberHex Engine](https://github.com/DulshanSiriwardhana/CyberHex)
+> **A high-performance Neural Network architecture and machine learning engine built entirely from scratch.**
 
-**The Engineering Challenge:** Building a robust, decoupled ecosystem capable of handling high-velocity data execution and secure architectural routing.
+**The Engineering Challenge:** Architecting an intensive, ground-up deep learning framework involving low-level memory management, custom math utilities, and real-time visualization.
 
-* **Backend Infrastructure:** Orchestrated a highly secure, scalable Node.js & Express layer mapping complex application logics.
-* **Database & Storage:** Stateful data logs and credentials are encrypted, secured, and optimized using scalable database deployments for instant retrieval.
-* **Performance Execution:** Designed with latency-minimizing architectural patterns to ensure heavily responsive execution across concurrent global connections.
+* **Core AI Engine:** Developed in pure C++ incorporating dense layers, activation functions (ReLU, Sigmoid), and rigorous backpropagation mathematics without external ML libraries.
+* **Custom Matrix Operations:** Built a highly specialized custom matrix math and memory management layer from scratch to optimize multi-dimensional tensor operations.
+* **Real-time Pipeline:** Integrated a C++ WebSocket server streaming training epoch metrics directly to a modern React visual dashboard.
+
+<br/>
+
+### 🏆 3. [Kappa-Style Big Data Pipeline](https://github.com/DulshanSiriwardhana/E-Commerce-Clickstream-Inventory-Watch)
+> **An end-to-end Big Data streaming architecture for real-time E-Commerce analytics.**
+
+**The Engineering Challenge:** Designing a fault-tolerant, high-throughput Kappa architecture to process live clickstreams and orchestrate segmented batch analytics.
+
+* **Real-Time Data Ingestion:** Engineered a live data generator pumping high-velocity JSON payloads directly into an Apache Kafka event stream.
+* **Stream Processing:** Deployed Apache Spark Structured Streaming to securely parse Kafka streams, apply windowing mechanisms, and trigger real-time alerts into PostgreSQL.
+* **Analytics Orchestration:** Utilized Apache Airflow DAGs to coordinate and execute data modeling and segmentation pipelines via Docker.
 
 <br/>
 

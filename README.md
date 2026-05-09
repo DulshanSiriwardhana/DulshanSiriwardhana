@@ -113,6 +113,10 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DulshanSiriwardhana&theme=tokyonight&hide_border=true" />
     <img src="https://streak-stats.demolab.com?user=DulshanSiriwardhana&theme=tokyonight&hide_border=true" alt="Streak" width="49%" />
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=DulshanSiriwardhana&theme=tokyonight&no-bg=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=DulshanSiriwardhana&theme=tokyonight&no-bg=true" alt="Trophies" width="49%" />
+  </picture>
 </div>
 
 <br/>

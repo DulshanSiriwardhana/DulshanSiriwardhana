@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Dulshan Siriwardhana ✦
+# { Dulshan Siriwardhana }
 **Software Engineer  •  Full-Stack Innovator  •  Systems Developer**
 
 <p align="center">

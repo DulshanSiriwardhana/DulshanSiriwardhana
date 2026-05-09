@@ -85,13 +85,15 @@
 ## 📊 Analytics & Impact
 
 <div align="center">
-  <p>
-    <a href="https://user-badge.committers.top/sri_lanka/DulshanSiriwardhana">
-      <img src="https://user-badge.committers.top/sri_lanka/DulshanSiriwardhana.svg" alt="committers.top badge" />
-    </a>
-  </p>
-
   <table width="100%">
+    <tr>
+      <td colspan="2" align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=DulshanSiriwardhana&theme=tokyonight&no-bg=true" />
+          <img src="https://github-profile-trophy.vercel.app/?username=DulshanSiriwardhana&theme=tokyonight&no-bg=true" alt="Trophies" width="100%" />
+        </picture>
+      </td>
+    </tr>
     <tr>
       <td width="50%" align="center">
         <picture>
@@ -99,11 +101,10 @@
           <img src="https://github-readme-stats.vercel.app/api?username=DulshanSiriwardhana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
         </picture>
       </td>
-      <td width="50%" align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DulshanSiriwardhana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DulshanSiriwardhana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langs" />
-        </picture>
+      <td width="50%" align="center" valign="middle">
+        <a href="https://user-badge.committers.top/sri_lanka/DulshanSiriwardhana">
+          <img src="https://user-badge.committers.top/sri_lanka/DulshanSiriwardhana.svg" alt="committers.top badge" />
+        </a>
       </td>
     </tr>
     <tr>
@@ -115,8 +116,8 @@
       </td>
       <td width="50%" align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=DulshanSiriwardhana&theme=tokyonight&no-bg=true" />
-          <img src="https://github-profile-trophy.vercel.app/?username=DulshanSiriwardhana&theme=tokyonight&no-bg=true" alt="Trophies" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DulshanSiriwardhana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DulshanSiriwardhana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langs" />
         </picture>
       </td>
     </tr>
